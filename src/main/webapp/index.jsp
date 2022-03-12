@@ -36,7 +36,7 @@
             <img src="<%=request.getContextPath()%>/public/images/image.png">
         </div>
         <div class="right-col">
-            <h1>Explore <br>being a Donor</h1>
+            <h1>Explore <br>being a Donor This is a test</h1>
             <p>Join us to put the power to save lives in the palm of your hands.<br>Lets join hands to support blood
                 donations and deliver much-needed services to the community.</p>
 
